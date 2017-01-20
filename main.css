@@ -265,3 +265,5 @@ p { margin: 0.5% !important; }
 * {
   text-decoration: none;
 }
+
+body{width:100%;}

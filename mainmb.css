@@ -264,3 +264,5 @@ p { margin: 1% !important; }
 * {
   text-decoration: none;
 }
+
+body{width:90%;margin:auto;min-width:600px;max-width:2000px}

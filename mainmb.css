@@ -1,0 +1,220 @@
+#nd1 {
+    font-weight:bold;
+    font-size:200px;
+    color:white;
+    font-family: 'Righteous';
+    text-align:center;
+    vertical-align: middle;
+    line-height:650px;
+    background-image: url(math-hd-wallpaper-1080p.jpg);
+    background-position: center;
+    background-size: 1850px;
+    outline-style: solid;
+    outline-color: white;
+    height: 70%;
+}
+
+#nd2 {
+    font-weight:bold;
+    font-size:200px;
+    color:white;
+    font-family: 'Righteous';
+    text-align:center;
+    vertical-align: middle;
+    line-height:650px;
+    background-image: url(lithuania_flag_texture_background_symbols_50957_1920x1080.jpg);
+    background-position: center;
+    background-size: 1850px;
+    outline-style: solid;
+    outline-color: white;
+    height: 70%;
+}
+
+#nd3 {
+    font-weight:bold;
+    font-size:200px;
+    color:white;
+    font-family: 'Righteous';
+    text-align:center;
+    vertical-align: middle;
+    line-height:650px;
+    background-image: url(flag_britain_color_texture_background_55280_1920x1080.jpg);
+    background-position: center;
+    background-size: 1850px;
+    outline-style: solid;
+    outline-color: white;
+    height: 70%;
+}
+
+#nd4 {
+    font-weight:bold;
+    font-size:200px;
+    color:white;
+    font-family: 'Righteous';
+    text-align:center;
+    vertical-align: middle;
+    line-height:650px;
+    background-image: url(globe_country_ball_geography_94625_1920x1080.jpg);
+    background-position: center;
+    background-size: 1850px;
+    outline-style: solid;
+    outline-color: white;
+    height: 70%;
+}
+
+#nd5 {
+    font-weight:bold;
+    font-size:200px;
+    color:white;
+    font-family: 'Righteous';
+    text-align:center;
+    vertical-align: middle;
+    line-height:650px;
+    background-image: url(1TqpGD.jpg);
+    background-position: center;
+    background-size: 1850px;
+    outline-style: solid;
+    outline-color: white;
+    height: 70%;
+}
+
+#nd6 {
+    font-weight:bold;
+    font-size:200px;
+    color:white;
+    font-family: 'Righteous';
+    text-align:center;
+    vertical-align: center;
+    line-height:650px;
+    background-image: url(bear_symbol_flag_russia_53830_1920x1080.jpg);
+    background-position: center;
+    background-size: 1850px;
+    outline-style: solid;
+    outline-color: white;
+    height: 70%;
+}
+
+#nd7 {
+    font-weight:bold;
+    font-size:200px;
+    color:white;
+    font-family: 'Righteous';
+    text-align:center;
+    vertical-align: middle;
+    line-height:650px;
+    background-image: url(paris_beautiful_france_eiffel_tower_city_france_25578_1920x1080.jpg);
+    background-position: center;
+    background-size: 1850px;
+    outline-style: solid;
+    outline-color: white;
+    height: 70%;
+}
+
+#nd8 {
+    font-weight:bold;
+    font-size:200px;
+    color:white;
+    font-family: 'Righteous';
+    text-align:center;
+    vertical-align: middle;
+    line-height:650px;
+    background-image: url(physics-wallpaper-new.jpg);
+    background-position: center;
+    background-size: 1850px;
+    outline-style: solid;
+    outline-color: white;
+    height: 70%;
+}
+
+#nd9 {
+    font-weight:bold;
+    font-size:200px;
+    color:white;
+    font-family: 'Righteous';
+    text-align:center;
+    vertical-align: middle;
+    line-height:650px;
+    background-image: url(HeZU6m.jpg);
+    background-position: center;
+    background-size: 1850px;
+    outline-style: solid;
+    outline-color: white;
+    height: 70%;
+}
+
+#nd10 {
+    font-weight:bold;
+    font-size:200px;
+    color:white;
+    font-family: 'Righteous';
+    text-align:center;
+    vertical-align: middle;
+    line-height:650px;
+    background-image: url(brain-cell-26673-2560x1440.jpg);
+    background-position: center;
+    background-size: 1850px;
+    outline-style: solid;
+    outline-color: white;
+    height: 70%;
+}
+
+#apie1, #apie2, #apie3, #apie4, #apie5, #apie6, #apie7, #apie8, #apie9, #apie10 {
+    font-weight: bold;
+    font-size: 100px;
+    color:white;
+    font-family: 'Righteous';
+    text-align: center;
+    line-height: 120px;
+    background-color: gray;
+    outline-style: solid;
+    outline-color: white;
+    height: 39%;
+}
+
+#madeby {
+    font-weight:bold;
+    font-size:35px;
+    color:white;
+    font-family: 'Righteous';
+    text-align:center;
+    line-height:70px;
+    background-color:black;
+    outline-style: solid;
+    outline-color: white;
+    float: left;
+    width: 100%
+}
+
+#main {
+    font-weight:bold;
+    font-size:170px;
+    color:white;
+    font-family: 'Righteous';
+    text-align:center;
+    line-height:180px;
+}
+
+#meniubar {
+    font-weight:bold;
+    font-size:35px;
+    font-family: 'Righteous';
+    text-align:center;
+    line-height:70px;
+    background-color:black;
+    outline-style: solid;
+    outline-color: white;
+}
+
+#m1, #m2, #m3 {
+    color:white;
+}
+
+body {
+    background-color: dimgrey;
+}
+
+p { margin: 1% !important; }
+
+* {
+  text-decoration: none;
+}

@@ -12,6 +12,7 @@
     outline-style: solid;
     outline-color: white;
     height: 70%;
+    width: 98%;
 }
 
 #nd2 {
@@ -28,6 +29,7 @@
     outline-style: solid;
     outline-color: white;
     height: 70%;
+    width: 98%;
 }
 
 #nd3 {
@@ -44,6 +46,7 @@
     outline-style: solid;
     outline-color: white;
     height: 70%;
+    width: 98%;
 }
 
 #nd4 {
@@ -60,6 +63,7 @@
     outline-style: solid;
     outline-color: white;
     height: 70%;
+    width: 98%;
 }
 
 #nd5 {
@@ -76,6 +80,7 @@
     outline-style: solid;
     outline-color: white;
     height: 70%;
+    width: 98%;
 }
 
 #nd6 {
@@ -92,6 +97,7 @@
     outline-style: solid;
     outline-color: white;
     height: 70%;
+    width: 98%;
 }
 
 #nd7 {
@@ -108,6 +114,7 @@
     outline-style: solid;
     outline-color: white;
     height: 70%;
+    width: 98%;
 }
 
 #nd8 {
@@ -124,6 +131,7 @@
     outline-style: solid;
     outline-color: white;
     height: 70%;
+    width: 98%;
 }
 
 #nd9 {
@@ -140,6 +148,7 @@
     outline-style: solid;
     outline-color: white;
     height: 70%;
+    width: 98%;
 }
 
 #nd10 {
@@ -156,6 +165,7 @@
     outline-style: solid;
     outline-color: white;
     height: 70%;
+    width: 98%;
 }
 
 #apie1, #apie2, #apie3, #apie4, #apie5, #apie6, #apie7, #apie8, #apie9, #apie10 {
@@ -169,6 +179,7 @@
     outline-style: solid;
     outline-color: white;
     height: 39%;
+    width: 98%;
 }
 
 #madeby {
@@ -182,7 +193,8 @@
     outline-style: solid;
     outline-color: white;
     float: left;
-    width: 100%
+    width: 98%;
+    
 }
 
 #main {
@@ -192,6 +204,7 @@
     font-family: 'Righteous';
     text-align:center;
     line-height:180px;
+    width: 98%;
 }
 
 #meniubar {
@@ -203,6 +216,7 @@
     background-color:black;
     outline-style: solid;
     outline-color: white;
+    width: 98%;
 }
 
 #m1, #m2, #m3 {

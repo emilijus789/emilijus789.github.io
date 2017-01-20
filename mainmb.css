@@ -219,6 +219,36 @@
     width: 98%;
 }
 
+.tv {
+    font-weight:bold;
+    font-size:40px;
+    color:white;
+    font-family: 'Righteous';
+    text-align:center;
+    line-height:50px;
+    outline-style: solid;
+    outline-color: white;
+}
+
+.tvmain {
+    font-weight:bold;
+    font-size:90px;
+    color:white;
+    font-family: 'Righteous';
+    text-align:center;
+    line-height:100px;
+    background-color: gray
+}
+
+#a {
+    font-weight:bold;
+    font-size:40px;
+    color:white;
+    font-family: 'Righteous';
+    text-align:center;
+    line-height:50px;
+}
+
 #m1, #m2, #m3 {
     color:white;
 }
